@@ -1,0 +1,16 @@
+body {
+    display: flex;
+}
+
+.Grafico1{
+    position: relative; 
+    height:40vh; 
+    width:40vw
+}
+
+.Grafico2{
+    position: relative; 
+    height:40vh; 
+    width:40vw
+}
+
